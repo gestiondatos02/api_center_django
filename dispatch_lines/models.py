@@ -1,5 +1,3 @@
-from email.policy import default
-from django import dispatch
 from django.db import models
 
 class Companies(models.Model):
